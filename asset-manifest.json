@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcd2c13c.css",
+    "main.js": "/static/js/main.441b04d8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/wp6911028.jpg": "/static/media/wp6911028.d5094fef6d3a61c501d6.jpg",
+    "static/media/proj1.png": "/static/media/proj1.557b54ccaa58f98030ff.png",
+    "static/media/uci.png": "/static/media/uci.3d144a159c3e296c8633.png",
+    "static/media/othello.png": "/static/media/othello.e883fb020a7efa078feb.png",
+    "static/media/maze.png": "/static/media/maze.f714e5d0b747c4996263.png",
+    "static/media/profile.jpg": "/static/media/profile.6497230d09e7d3cb0519.jpg",
+    "static/media/new_instagram_logo-1024x1024.jpg": "/static/media/new_instagram_logo-1024x1024.5be46ff6f2d51eaf744e.jpg",
+    "static/media/GitHub-Logo.jpg": "/static/media/GitHub-Logo.448f38b55bf2d2d9bb67.jpg",
+    "index.html": "/index.html",
+    "main.dcd2c13c.css.map": "/static/css/main.dcd2c13c.css.map",
+    "main.441b04d8.js.map": "/static/js/main.441b04d8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd2c13c.css",
+    "static/js/main.441b04d8.js"
+  ]
+}
