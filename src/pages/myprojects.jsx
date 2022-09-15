@@ -57,7 +57,7 @@ export default class Myprojects extends Component {
 
         </div>
         <div className='proj1' style ={{position:"relative",top:"343.6px"}}>
-            <h2> Othello AI</h2>
+            <h2> Mazer generator/solver</h2>
             <h6> Feburary 2022(source code node not avaible because it's a class project)</h6>
             <div className='proj1detail'>
            

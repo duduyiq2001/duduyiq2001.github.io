@@ -11,10 +11,10 @@ export default class Social extends Component{
         <a href="https://github.com/yiqundu?tab=repositories"> <img src={GitHub} alt = 'wdjwd'className='icons'/></a>
         
       
-        <a href="https://github.com/yiqundu?tab=repositories"> <img src={insta} alt = 'wdjwd' className='icons'/></a>
+        <a href="https://www.instagram.com/deandunewinsta/"> <img src={insta} alt = 'wdjwd' className='icons'/></a>
         
         
-        <a href="https://github.com/yiqundu?tab=repositories"> <img src={handshake} alt = 'wdjwd'className='icons'/></a>
+        <a href="https://app.joinhandshake.com/stu/users/25972597"> <img src={handshake} alt = 'wdjwd'className='icons'/></a>
         </div>
         );
 
