@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .neon-text {
+    @apply text-neon-pink;
+    text-shadow: 0 0 5px theme("colors.neon-pink");
+  }
+
+  .card {
+    @apply bg-card-bg border border-neon-pink/20 backdrop-blur-lg;
+  }
+
+  .button-glow {
+    @apply transition-all duration-300;
+  }
+
+  .button-glow:hover {
+    @apply transform -translate-y-0.5;
+    box-shadow: 0 0 15px theme("colors.neon-pink");
+  }
+  .social-icon-link {
+    @apply relative inline-block;
+  }
+
+  .social-icon-link::after {
+    content: "";
+    @apply absolute -inset-2 rounded-full opacity-0 transition-opacity duration-300;
+    box-shadow: 0 0 20px theme("colors.neon-pink");
+  }
+
+  .social-icon-link:hover::after {
+    @apply opacity-50;
+  }
+}
