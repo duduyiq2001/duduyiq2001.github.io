@@ -95,7 +95,7 @@ const Experience: React.FC = () => {
       organization: "SF Express",
       title: "Software Developer Intern",
       period: "July 2021 - August 2021",
-      location: "Remote",
+      location: "Shanghai China",
       description: [
         "Facilitated the retrieval of detailed delivery methods and products information by implementing a part of the order management system Rest API powered by Python Sanic framework, ensuring alignment with technical specifications through Postman tests.",
         "Engineered and Optimized over 30 sql queries to ensure efficient Postgresql database access through implementation of indexing strategies and query refactoring, reduced average query execution time from 200ms to 150ms, enabling the system to handle 20% more transactions per second.	",
